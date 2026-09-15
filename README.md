@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/grit-header.png" width="100%" alt="GRIT. Memory and a ledger for your agents. Sisyphus pushing the tiled disk uphill.">
+  <img src="./assets/grit-header-v3.png" width="100%" alt="GRIT. Memory and a ledger for your agents. Sisyphus pushing the tiled disk uphill.">
 </p>
 
 <p align="center">
