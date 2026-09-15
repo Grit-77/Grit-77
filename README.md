@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/grit-header-v3.png" width="100%" alt="GRIT. Memory and a ledger for your agents.">
+  <img src="./assets/grit-header-baroque.png" width="100%" alt="GRIT. Memory and a ledger for your agents.">
 </p>
 
 <p align="center">
