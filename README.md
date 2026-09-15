@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/grit-header-v3.png" width="100%" alt="GRIT. Memory and a ledger for your agents. Sisyphus pushing the tiled disk uphill.">
+  <img src="./assets/grit-header-v3.png" width="100%" alt="GRIT. Memory and a ledger for your agents.">
 </p>
 
 <p align="center">
@@ -9,13 +9,9 @@
 
 <br>
 
-I'm **Ismet**, and this is **Grit**: a shared memory and task ledger that sits between AI coding agents (Claude Code, Codex, OMP, Hermes) and does the part they are bad at. Who owns a task, how many attempts were made, how "done" is proven, what was learned. Built in the open, one person, Windows first, on a home server.
+I'm **Ismet**. I build **Grit**: a shared memory and task ledger that sits between AI coding agents (Claude Code, Codex, OMP, Hermes) and does the part they are bad at. Who owns a task, how many attempts were made, how "done" is proven, what was learned. One person, Windows first, a home server, built in the open.
 
 The name is the method. Sisyphus does not get the boulder to stay up; he gets it up again. The ledger records every push.
-
-<p align="center">
-  <img src="./assets/grit-hero.png" width="100%" alt="The Grit mascot pushing the tiled disk up a rocky slope at night, engraved illustration.">
-</p>
 
 ## Start here
 
@@ -38,7 +34,7 @@ The name is the method. Sisyphus does not get the boulder to stay up; he gets it
     <td width="50%" valign="top">
       <sub>03 / BENCHMARKS</sub>
       <h3>Self-benchmark</h3>
-      <p>Grit scores itself on every push: ledger chaos with crash injection, memory recall on a 95-question set, worker coordination, the learning loop. Numbers, not adjectives. Latest figures below.</p>
+      <p>Grit scores itself on every push: ledger chaos with crash injection, memory recall on a 95-question set, worker coordination, the learning loop. Numbers, not adjectives.</p>
     </td>
     <td width="50%" valign="top">
       <sub>04 / THE SITE</sub>
@@ -49,7 +45,7 @@ The name is the method. Sisyphus does not get the boulder to stay up; he gets it
   </tr>
 </table>
 
-## How Grit works, in three rules
+## Three rules
 
 - **One owner.** Every task carries a lease and a fence token. The same task never runs in two places; a stale owner's result is refused.
 - **Counted attempts.** At most 3 worker attempts plus 3 takeovers per task. Switching model, session or machine does not reset the counter.
@@ -57,14 +53,10 @@ The name is the method. Sisyphus does not get the boulder to stay up; he gets it
 
 ## Now
 
-- Memory recall@5 on the real vault: **0.958** (BM25 alone 0.832), local bge-m3 embeddings, no cloud.
-- Full test suite: **3000+** tests, green on every merge.
-- Runs Claude Code, Codex, OMP and Hermes workers on one home server, headless, with file leases so they do not overwrite each other.
+- Memory recall@5 on the real vault: **0.958**, local embeddings, no cloud.
+- **3000+** tests, green on every merge.
+- Four agent harnesses on one home server, headless, with file leases so they do not overwrite each other.
 
-<p align="center">
-  <img src="./assets/grit-ledger.png" width="100%" alt="The Grit mascot writing in a large ledger, sitting among stacks of finished disks.">
-</p>
+<br>
 
-<p align="center">
-  <sub>Türkçe: Grit'i Türkçe anlatan yazılar ve videolar yolda. Şimdilik kod konuşuyor.</sub>
-</p>
+<sub><b>Türkçe.</b> Grit, yapay zekâ kodlama ajanlarının arasında duran bir hafıza ve görev defteri: işin sahibi kim, kaç deneme yapıldı, "bitti" nasıl kanıtlanır, ne öğrenildi. Tek kişi, ev sunucusu, açık geliştirme. Türkçe yazılar ve videolar yolda.</sub>
