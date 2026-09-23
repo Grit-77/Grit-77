@@ -1,42 +1,35 @@
 <p align="center">
-  <img src="./assets/grit-header-baroque.png" width="100%" alt="GRIT. Memory and a ledger for your agents.">
+  <img src="./assets/grit-header.png" width="100%" alt="Grit. AI that finishes the work. An engraving of a man pushing a round stone disc up a mountain.">
 </p>
 
 <p align="center">
-  <a href="https://x.com/Grit_77"><b>X</b></a> &nbsp; / &nbsp;
-  <a href="https://www.instagram.com/ismt.aydin"><b>Instagram</b></a>
+  <a href="https://grit.grit-77.workers.dev/en"><b>Website</b></a> &nbsp;·&nbsp;
+  <a href="https://grit.grit-77.workers.dev/en/radar"><b>RADAR</b></a> &nbsp;·&nbsp;
+  <a href="https://x.com/gritradar_ai"><b>X</b></a> &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/gritradar.ai"><b>Instagram</b></a>
 </p>
 
-<br>
+**Grit** is an AI company for companies and individuals. We help teams set up AI agents, write the rules and the checks with them, and carry work through to a result someone can inspect. The rule behind everything we do: the work an AI does is measured, verified and written down.
 
-I'm **Ismet**. I build **Grit**, a task ledger and shared memory for AI coding agents. It decides who owns a task, counts every attempt, and refuses "done" without evidence.
+## RADAR
 
-I share the build on [X](https://x.com/Grit_77).
-
-## Grit
-
-Grit sits between Claude Code, Codex, OMP and Hermes. Each agent gets the same ledger, the same memory and the same rules, enforced in Python rather than in a prompt. One person, Windows first, with worker servers for the heavy runs.
-
-**The codebase is currently private** while the licence is decided. Early access: message me on X.
-
-## How it works
+**RADAR** is our agentic infrastructure: a control plane for AI coding agents. It puts one ledger under Claude Code, Codex CLI, OMP and Hermes Agent.
 
 | Rule | What it means |
 | :--- | :--- |
-| One owner | A task carries a lease and a fence token. It never runs in two places; a stale owner's result is refused. |
-| Counted attempts | Three worker attempts, then three takeovers. Changing model, session or machine does not reset the counter. |
-| Evidence before done | The acceptance command is re-run against the task's own tree. Its output is the evidence. No record, no done. |
+| **"Done" is a claim** | A task is refused as done until its acceptance test passes again on the current revision. The only way around it is an explicit manager override, and that is recorded too. |
+| **One owner per task** | A lease and a fence token. A stale holder is refused. |
+| **Counted attempts** | Three worker attempts, then three takeovers. After that the ledger refuses. |
+| **Memory with a source** | Decisions and lessons are Markdown records with a source and a scope, searched offline through a local index and put in front of the agent before it acts. |
+| **No new bill** | It runs on the Claude and ChatGPT subscriptions you already pay for; a paid API only if you name the provider and a budget. |
+| **Small** | Python 3.12+, zero runtime dependencies. Runs on Windows and Linux; macOS is being brought to parity. |
 
-## Numbers
+**Editions.** The open edition is free for individuals and is released under **Apache-2.0**. A paid company edition is planned. RADAR is in early access and its repository opens at the public release. [Join the early-access list](https://grit.grit-77.workers.dev/en/early-access).
 
-| Measure | Value | Measured |
-| :--- | :--- | :--- |
-| Test suite | 10,398 passing | 2026-09-23, full suite on a Linux worker server |
-| Harnesses | 4 | Claude Code, Codex, OMP and Hermes, one ledger, one rule set |
+For companies: we also set up agents and RADAR on your team's machines and write your rules and acceptance tests with you. [Write to us on X](https://x.com/gritradar_ai).
 
 ---
 
 <p align="center">
-  Push. Verify. Record.<br>
-  <sub>Türkçe: yapay zekâ kodlama ajanları için görev defteri ve ortak hafıza. Türkçe yazılar ve videolar yolda.</sub>
+  <sub>Grit · AI that finishes the work.<br>Türkçe: şirketler ve bireyler için yapay zekâ çözümleri; RADAR, kod yazan yapay zekâ ajanları için açık kaynak ajan altyapısı. <a href="https://grit.grit-77.workers.dev/?tr">Türkçe site</a></sub>
 </p>
