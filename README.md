@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/grit-banner-baroque.png" width="100%" alt="GRIT - AI that finishes the work. An oil painting in the baroque manner: a figure seen from behind pushes a heavy tiled disk up a dark mountain slope">
+  <img src="./assets/grit-banner-neo.png" width="100%" alt="GRIT - AI that finishes the work. A classical figure pushes a giant tiled disk up a mountain, printed in green on black">
 </p>
 
 <p align="center">
