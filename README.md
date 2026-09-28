@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://grit.grit-77.workers.dev">Website</a> ·
   <a href="https://grit.grit-77.workers.dev/radar/">RADAR</a> ·
-  <a href="https://grit.grit-77.workers.dev/radar/#how">How RADAR works</a> ·
+  <a href="https://grit.grit-77.workers.dev/radar/how-it-works/">How RADAR works</a> ·
   <a href="https://grit.grit-77.workers.dev/company/">Company</a> ·
   <a href="https://grit.grit-77.workers.dev/contact/">Contact</a>
 </p>
