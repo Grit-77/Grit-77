@@ -1,50 +1,56 @@
-<p align="center">
-  <a href="https://grit.grit-77.workers.dev"><img src="assets/grit-banner.jpg" alt="Grit. Proof stands in the light. AI systems that check their own work. A limestone hall with the Grit disk drawn on the floor as an engineering overlay: three rings of tiles around a hub, labelled like a technical figure." width="100%"></a>
-</p>
+<!--
+  Grit-77/Grit-77/README.md: the GitHub profile README (v4, rewritten 2026-09-30).
+  Staged for the manager, who publishes it. Every claim is sourced from the live site
+  (grit.grit-77.workers.dev) or the Grit repository's README.md and oss/README.md.
+  The images sit next to this file: the disk mark is a byte copy of docs/brand/grit-disk-mark-green.svg,
+  and radar-verification.png is a byte copy of the RADAR README hero (oss/readme/hero.png).
+-->
 
 <p align="center">
-  <a href="https://grit.grit-77.workers.dev">Website</a> ·
-  <a href="https://grit.grit-77.workers.dev/radar/">RADAR</a> ·
-  <a href="https://grit.grit-77.workers.dev/radar/how-it-works/">How RADAR works</a> ·
-  <a href="https://grit.grit-77.workers.dev/company/">Company</a> ·
-  <a href="https://grit.grit-77.workers.dev/contact/">Contact</a>
+  <img src="./grit-disk-mark-green.svg" width="72" alt="The Grit disk mark: three rings of separate green segments around an empty centre.">
 </p>
 
-**Grit builds AI systems that check their own work.** An AI agent that says *done* has made a claim; everything we build closes on a check that runs again, not on the claim. Our product is RADAR. For companies and individuals we also build websites, AI automations and autonomous systems, and bring scattered data into one place.
+<h1 align="center">Grit</h1>
 
-## RADAR
+<p align="center"><b>Proof stands in the light.</b><br>An AI company that checks its own work.</p>
 
 <p align="center">
-  <a href="https://grit.grit-77.workers.dev/radar/"><img src="assets/radar-banner.jpg" alt="RADAR. A claim is not a result; RADAR reruns the test. Runs Claude Code, Codex CLI, OMP and Hermes Agent. A radio dish at blue hour inside radar-scope rings, with a sample readout: verify pass, attempt 1 of 3, aground 0." width="100%"></a>
+  <a href="https://grit.grit-77.workers.dev/">Website</a> &nbsp;·&nbsp;
+  <a href="https://grit.grit-77.workers.dev/radar/">RADAR</a> &nbsp;·&nbsp;
+  <a href="https://grit.grit-77.workers.dev/company/">Company</a> &nbsp;·&nbsp;
+  <a href="https://grit.grit-77.workers.dev/contact/">Contact</a> &nbsp;·&nbsp;
+  <a href="https://x.com/gritradar_ai">X</a> &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/gritradar.ai/">Instagram</a>
 </p>
 
-RADAR runs the AI coding agents you already use (Claude Code, Codex CLI, OMP and Hermes Agent) and closes a task only after it reruns the acceptance test itself. It grew out of the infrastructure we use for our own work.
+![A dark graphite studio with a polished, reflective floor. In the centre floats a large software panel listing six verification checks: the first five carry sage-green check marks, the sixth is still grey. Around it float four smaller panels: two terminal sessions, a side-by-side diff view and a compact table of ledger rows. The panels hold no readable text.](./radar-verification.png)
 
-The test is written first → an agent works in its own copy of the project → it says *done*, recorded as a claim → RADAR reruns the test → it passes: the task closes and the proof is kept · it fails: the task reopens with the failure attached.
+Grit builds AI systems for companies and individuals. We run AI coding agents every day, and we built the layer that makes their work count: a task is done only when its own acceptance test runs again and passes, run by the system and not by the agent that did the work.
+
+## RADAR: agents say done, RADAR checks
+
+RADAR is our product. It keeps one ledger for AI coding agents such as Claude Code, Codex, OMP and Hermes, and it closes a task only when the task's acceptance command passes again on the current revision.
+
+| Rule | What it means |
+| :--- | :--- |
+| **"Done" is a claim** | The acceptance command is written before the work starts, and RADAR runs it itself. `radar task done` is refused until that run has passed. |
+| **One owner per task** | A lease and a fence token. A write from a stale owner is refused. |
+| **Counted attempts** | Three worker attempts, then three takeovers. Then the task waits for a person. |
+| **Memory with a source** | Decisions and lessons are Markdown records with a source and a scope, searched offline. |
+| **Nothing new to run** | Python 3.12+, no runtime dependencies, no account. Linux, macOS and Windows. |
+
+RADAR is in early access and its repository is private for now. [Ask for early access](https://grit.grit-77.workers.dev/contact/?topic=radar), or read [how it works](https://grit.grit-77.workers.dev/radar/how-it-works/).
+
+## Work with us
+
+We set up AI agents for teams, write the rules and the acceptance tests with them, and deliver websites, tools and automations with proof that they work. [Tell us about the work](https://grit.grit-77.workers.dev/contact/).
+
+## Co-founders
+
+İsmet Aydın &nbsp;·&nbsp; Mustafa Toker &nbsp;·&nbsp; Ali Baha Berkal
+
+---
 
 <p align="center">
-  <img src="assets/product.png" alt="RADAR's chart room, its home screen in a terminal, with sample data: a chart of machines and the busy worker slots on each, the LOG of tasks, NEXT for what needs a person, ARRIVALS per hour, token use per machine and the COMMANDS list." width="100%">
+  <sub>Türkçe: Grit, şirketler ve bireyler için yapay zekâ sistemleri kurar. RADAR, kod yazan yapay zekâ ajanlarının işini kanıta bağlar: bir görev, kabul testi yeniden çalışıp geçmeden bitmiş sayılmaz. <a href="https://grit.grit-77.workers.dev/tr/">Türkçe site</a></sub>
 </p>
-<p align="center"><sub>The chart room, RADAR's home screen in a terminal, with sample data.</sub></p>
-
-> In Grit's own work (20-28 Sep 2026), workers running one coding agent reported a task as finished 1,608 times (1,457 tasks); Grit's immediate re-run of the acceptance commands on the same server failed on 74 of those reports (4.6%). A claim alone does not close a task.
->
-> <sub>Grit internal ledger, snapshot 28 Sep 2026 06:00 UTC. Observed, not a controlled comparison.</sub>
-
-[The website draws the figure, one square per report.](https://grit.grit-77.workers.dev/radar/#benchmark)
-
-- **For individuals:** an open edition, open source (Apache-2.0) at public release. In early access now: [ask for a place.](https://grit.grit-77.workers.dev/contact/?topic=radar)
-- **For companies:** a company edition, in development. [Talk to us.](https://grit.grit-77.workers.dev/contact/?topic=radar-company)
-
-## What we do
-
-- **Websites**, designed and built with you from the first draft to the live site: accessible, quick to load, in your visitors' languages.
-- **AI automations**: repetitive work done the same way each time, every result checked before it is used.
-- **Autonomous systems**: agents that carry a piece of work from start to finish; a task closes only when its test passes again.
-- **Data**: scattered data brought into one place and cleaned, reliable enough to decide on.
-
-## Write to us
-
-[radarbygrit@gmail.com](mailto:radarbygrit@gmail.com) · [X @gritradar_ai](https://x.com/gritradar_ai) · [Instagram @gritradar.ai](https://www.instagram.com/gritradar.ai/)
-
-<sub>Grit · Ankara · founded June 2026 · <a href="https://grit.grit-77.workers.dev">grit.grit-77.workers.dev</a></sub>
