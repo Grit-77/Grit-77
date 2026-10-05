@@ -91,7 +91,12 @@ Here you can use the tools we open-source, follow RADAR on its way out, and see 
       <p>18 rules for coding agents, each with the failure behind it, in one drop-in AGENTS.md / CLAUDE.md. Plus three skills: reading-measurements, whose-red, public-claims.</p>
       <sub>Markdown · Claude Code · Codex · Apache-2.0</sub>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Grit-77/cinematic-site"><img src="./assets/cinematic-site.png" width="100%" alt="cinematic-site: a Claude Code skill for award-level websites that ship checked, beside its Done when list."></a>
+      <h3><a href="https://github.com/Grit-77/cinematic-site">cinematic-site</a></h3>
+      <p>A Claude Code skill for award-level websites that ship checked: one story, every claim sourced, a browser QA pass and a layout audit at phone and desktop width.</p>
+      <sub>Claude Code skill · Playwright · axe · Lighthouse · Apache-2.0</sub>
+    </td>
   </tr>
 </table>
 
