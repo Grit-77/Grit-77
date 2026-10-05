@@ -100,6 +100,8 @@ Here you can use the tools we open-source, follow RADAR on its way out, and see 
   </tr>
 </table>
 
+On the Apify Store: [five data tools](https://github.com/Grit-77/apify-actors) for website screenshots and PDFs, app reviews, bulk domain lookup, ATS job postings and Polymarket odds.
+
 ## How we work
 
 - **The test comes first.** Every task starts with the command that will prove it.
