@@ -61,7 +61,7 @@ We are **Grit**, an AI company in Ankara. We run AI coding agents every day and 
 - **Done is a claim.** The system reruns the proof; the agent's word is not enough.
 - **Built in the open where it helps.** Tools we use every day, released when they are ready.
 
-**Co-founders:** İsmet Aydın &nbsp;·&nbsp; Mustafa Toker &nbsp;·&nbsp; Ali Baha Berkal
+**Co-founders:** İsmet Aydın &nbsp;·&nbsp; Mustafa Toker &nbsp;·&nbsp; Ali Baha Erkal
 
 <br>
 
