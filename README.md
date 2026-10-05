@@ -1,59 +1,47 @@
-<p align="center">
-  <img src="./assets/grit-banner.png" width="100%" alt="Grit. Proof stands in the light. A dark limestone hall at night: a shaft of light from a high window falls on a floating software panel, a table of task rows beside a column of check marks, four green and the last one still empty, above radar rings drawn on the floor.">
-</p>
+<a href="https://grit.grit-77.workers.dev/"><img src="./assets/cards/hero.jpg" width="100%" alt="Grit. Proof stands in the light. A baroque oil painting of a night coast: a lighthouse on the far headland throws one beam of warm light across the dark sea, watched by a cloaked figure on the near rock."></a>
 
 <p align="center">
-  <a href="https://grit.grit-77.workers.dev/"><b>Website</b></a> &nbsp; / &nbsp;
-  <a href="https://grit.grit-77.workers.dev/radar/"><b>RADAR</b></a> &nbsp; / &nbsp;
-  <a href="https://x.com/gritradar_ai"><b>X</b></a> &nbsp; / &nbsp;
-  <a href="https://www.instagram.com/gritradar.ai/"><b>Instagram</b></a> &nbsp; / &nbsp;
-  <a href="https://grit.grit-77.workers.dev/contact/"><b>Get in touch</b></a>
+  <a href="https://grit.grit-77.workers.dev/"><b>Website</b></a> &nbsp;·&nbsp;
+  <a href="https://grit.grit-77.workers.dev/radar/"><b>RADAR</b></a> &nbsp;·&nbsp;
+  <a href="https://x.com/gritradar_ai"><b>X</b></a> &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/gritradar.ai/"><b>Instagram</b></a> &nbsp;·&nbsp;
+  <a href="https://grit.grit-77.workers.dev/contact/"><b>Contact</b></a>
 </p>
 
-<br>
+We are **Grit**, an AI company in Ankara. We run AI coding agents every day and build the layer that makes their work count: **a task is done only when its own acceptance test runs again and passes**, run by the system, not by the agent that did the work.
 
-We are **Grit**, an AI company in Ankara. We run AI coding agents every day, and we build the layer that makes their work count: **a task is done only when its own acceptance test runs again and passes**, run by the system and not by the agent that did the work.
-
-Here you can use the tools we open-source, follow RADAR on its way out, and see how we work.
-
-## Start here
+## Open source
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <sub>01 / PRODUCT</sub>
-      <h3><a href="https://grit.grit-77.workers.dev/radar/">RADAR</a></h3>
-      <p>Agents say done. RADAR checks. One ledger for your AI coding agents that closes a task only after its acceptance test passes again.</p>
-      <p><a href="https://grit.grit-77.workers.dev/contact/?topic=radar"><b>Ask for early access →</b></a></p>
+      <a href="https://github.com/Grit-77/done-is-a-claim"><img src="./assets/cards/claim.jpg" width="100%" alt="done-is-a-claim: an AGENTS.md window showing rules 3 to 6, over a painting of a mountain pass at dusk."></a>
+      <p><a href="https://github.com/Grit-77/done-is-a-claim"><b>done-is-a-claim</b></a> · drop-in AGENTS.md / CLAUDE.md, every rule with the incident behind it, plus three skills.</p>
     </td>
     <td width="50%" valign="top">
-      <sub>02 / OPEN SOURCE</sub>
-      <h3><a href="https://github.com/Grit-77/dotline">dotline</a></h3>
-      <p>A direct line between your ChatGPT dot and Claude Code: a tiny HTTPS mailbox where the dot sends, Claude claims and answers.</p>
-      <p><a href="https://github.com/Grit-77/dotline"><b>Open a line →</b></a></p>
+      <a href="https://github.com/Grit-77/cinematic-site"><img src="./assets/cards/cinematic.jpg" width="100%" alt="cinematic-site: a terminal with the real layout audit and QA output for grit.grit-77.workers.dev, over a painting of classical ruins at golden hour."></a>
+      <p><a href="https://github.com/Grit-77/cinematic-site"><b>cinematic-site</b></a> · a Claude Code skill with a browser QA pass and a layout audit at phone and desktop width.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <sub>03 / OPEN SOURCE</sub>
-      <h3><a href="https://github.com/Grit-77/p2d">p2d</a></h3>
-      <p>Parcel to design: from zoning data to a checked plan, A3 vector sheets, photoreal renders and the architect's IFC, FreeCAD and DXF files, all from one model.</p>
-      <p><a href="https://github.com/Grit-77/p2d"><b>See the sheets →</b></a></p>
+      <a href="https://github.com/Grit-77/dotline"><img src="./assets/cards/dotline.jpg" width="100%" alt="dotline: a terminal session sending, claiming and answering a message, over a painting of two lanterns facing each other across a strait at twilight."></a>
+      <p><a href="https://github.com/Grit-77/dotline"><b>dotline</b></a> · a tiny HTTPS mailbox: the dot sends, Claude Code claims and replies. Standard library only.</p>
     </td>
     <td width="50%" valign="top">
-      <sub>04 / WORK WITH US</sub>
-      <h3><a href="https://grit.grit-77.workers.dev/contact/">Grit for teams</a></h3>
-      <p>We set up AI agents for teams, write the rules and the acceptance tests with them, and deliver websites, tools and automations with proof that they work.</p>
-      <p><a href="https://grit.grit-77.workers.dev/contact/"><b>Tell us about the work →</b></a></p>
+      <a href="https://github.com/Grit-77/p2d"><img src="./assets/cards/p2d.jpg" width="100%" alt="p2d: a generated plan sheet detail with rooms, areas and dimensions, over a painting of a villa under construction at dawn."></a>
+      <p><a href="https://github.com/Grit-77/p2d"><b>p2d</b></a> · İmar verisinden mimari projeye: A3 sheets, renders, a client PDF and IFC, FreeCAD and DXF files.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/Grit-77/apify-actors"><img src="./assets/cards/apify.jpg" width="50%" alt="Grit on Apify: a real dataset item from the Bulk Domain Lookup tool, over a painting of a baroque harbour at first light."></a>
+      <p><a href="https://github.com/Grit-77/apify-actors"><b>Grit on Apify</b></a> · website screenshots and PDFs, app reviews, domain lookup, ATS jobs and Polymarket odds.</p>
     </td>
   </tr>
 </table>
 
 ## On the workbench: RADAR
-
-<p align="center">
-  <img src="./assets/radar-chart-room.png" width="100%" alt="A dark chart room. Four small floating agent screens, each in its own muted colour, send thin lines of light down into one gate at the centre of a green radar scope projected on a stone table.">
-</p>
 
 **Many agents, one gate.** RADAR runs your AI coding agents, Claude Code, Codex, OMP and Hermes, against one ledger. The acceptance command is written before the work starts. When an agent says it is done, RADAR runs that command itself on the current revision, and the task closes only if it passes.
 
@@ -65,42 +53,7 @@ Here you can use the tools we open-source, follow RADAR on its way out, and see 
 | **Memory with a source** | Decisions and lessons are Markdown records with a source and a scope, searched offline. |
 | **Nothing new to run** | Python 3.12+, no runtime dependencies, no account. Windows and Linux; macOS is not supported yet. |
 
-**In early access.** The repository is private for now. [How it works](https://grit.grit-77.workers.dev/radar/how-it-works/) · [Ask for early access](https://grit.grit-77.workers.dev/contact/?topic=radar)
-
-## Open source
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Grit-77/dotline"><img src="./assets/dotline.png" width="100%" alt="A small round orange character pulls a glowing cable into a dark terminal window: the dot sends a message into a coding session."></a>
-      <h3><a href="https://github.com/Grit-77/dotline">dotline</a></h3>
-      <p>Your dot notices something while you are away; Claude Code works on it in the session you already have open. Claim and reply, a Monitor hook or a native channel.</p>
-      <sub>Python 3.10+ · standard library only · Apache-2.0</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Grit-77/p2d"><img src="./assets/p2d.jpg" width="100%" alt="A white floor plan drawn on a dark surface, with thin construction lines rising from it to the lit three-storey building it becomes, at dusk."></a>
-      <h3><a href="https://github.com/Grit-77/p2d">p2d</a></h3>
-      <p>İmar verisinden mimari projeye. A regulation-checked plan becomes architect-grade sheets, a furnished 3D model, renders and a client PDF.</p>
-      <sub>Python · IFC · FreeCAD · DXF · Apache-2.0</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Grit-77/done-is-a-claim"><img src="./assets/done-is-a-claim.png" width="100%" alt="Done is a claim: 18 rules for coding agents, each one paid for by a real failure, beside an open AGENTS.md file."></a>
-      <h3><a href="https://github.com/Grit-77/done-is-a-claim">done-is-a-claim</a></h3>
-      <p>18 rules for coding agents, each with the failure behind it, in one drop-in AGENTS.md / CLAUDE.md. Plus three skills: reading-measurements, whose-red, public-claims.</p>
-      <sub>Markdown · Claude Code · Codex · Apache-2.0</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Grit-77/cinematic-site"><img src="./assets/cinematic-site.png" width="100%" alt="cinematic-site: a Claude Code skill for award-level websites that ship checked, beside its Done when list."></a>
-      <h3><a href="https://github.com/Grit-77/cinematic-site">cinematic-site</a></h3>
-      <p>A Claude Code skill for award-level websites that ship checked: one story, every claim sourced, a browser QA pass and a layout audit at phone and desktop width.</p>
-      <sub>Claude Code skill · Playwright · axe · Lighthouse · Apache-2.0</sub>
-    </td>
-  </tr>
-</table>
-
-On the Apify Store: [five data tools](https://github.com/Grit-77/apify-actors) for website screenshots and PDFs, app reviews, bulk domain lookup, ATS job postings and Polymarket odds.
+**In early access.** [How it works](https://grit.grit-77.workers.dev/radar/how-it-works/) · [Ask for early access](https://grit.grit-77.workers.dev/contact/?topic=radar)
 
 ## How we work
 
@@ -108,18 +61,9 @@ On the Apify Store: [five data tools](https://github.com/Grit-77/apify-actors) f
 - **Done is a claim.** The system reruns the proof; the agent's word is not enough.
 - **Built in the open where it helps.** Tools we use every day, released when they are ready.
 
-## Connect
-
-[![X](https://img.shields.io/badge/-@gritradar__ai-131313?style=flat-square&logo=x&logoColor=white)](https://x.com/gritradar_ai)
-[![Instagram](https://img.shields.io/badge/-gritradar.ai-131313?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gritradar.ai/)
-[![Website](https://img.shields.io/badge/-grit.grit--77.workers.dev-131313?style=flat-square&logo=cloudflare&logoColor=white)](https://grit.grit-77.workers.dev/)
-[![GitHub](https://img.shields.io/badge/-Follow-131313?style=flat-square&logo=github&logoColor=white)](https://github.com/Grit-77)
-
 **Co-founders:** İsmet Aydın &nbsp;·&nbsp; Mustafa Toker &nbsp;·&nbsp; Ali Baha Berkal
 
 <br>
-
----
 
 <p align="center">
   <img src="./assets/grit-disk-mark-green.svg" width="40" alt="The Grit disk mark: three rings of separate green segments around an empty centre."><br>
