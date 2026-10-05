@@ -63,7 +63,7 @@ Here you can use the tools we open-source, follow RADAR on its way out, and see 
 | **One owner per task** | A lease and a fence token. A write from a stale owner is refused. |
 | **Counted attempts** | Three worker attempts, then three takeovers. Then the task waits for a person. |
 | **Memory with a source** | Decisions and lessons are Markdown records with a source and a scope, searched offline. |
-| **Nothing new to run** | Python 3.12+, no runtime dependencies, no account. Linux, macOS and Windows. |
+| **Nothing new to run** | Python 3.12+, no runtime dependencies, no account. Windows and Linux; macOS is not supported yet. |
 
 **In early access.** The repository is private for now. [How it works](https://grit.grit-77.workers.dev/radar/how-it-works/) · [Ask for early access](https://grit.grit-77.workers.dev/contact/?topic=radar)
 
@@ -83,6 +83,15 @@ Here you can use the tools we open-source, follow RADAR on its way out, and see 
       <p>İmar verisinden mimari projeye. A regulation-checked plan becomes architect-grade sheets, a furnished 3D model, renders and a client PDF.</p>
       <sub>Python · IFC · FreeCAD · DXF · Apache-2.0</sub>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Grit-77/done-is-a-claim"><img src="./assets/done-is-a-claim.png" width="100%" alt="Done is a claim: 18 rules for coding agents, each one paid for by a real failure, beside an open AGENTS.md file."></a>
+      <h3><a href="https://github.com/Grit-77/done-is-a-claim">done-is-a-claim</a></h3>
+      <p>18 rules for coding agents, each with the failure behind it, in one drop-in AGENTS.md / CLAUDE.md. Plus three skills: reading-measurements, whose-red, public-claims.</p>
+      <sub>Markdown · Claude Code · Codex · Apache-2.0</sub>
+    </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
