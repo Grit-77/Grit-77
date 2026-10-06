@@ -19,8 +19,8 @@ Grit is an AI company in Ankara that checks its own work. Our mark is a labyrint
       <p><a href="https://github.com/Grit-77/done-is-a-claim"><b>done-is-a-claim</b></a> · a drop-in AGENTS.md / CLAUDE.md, each rule with the incident behind it, plus three skills.</p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Grit-77/cinematic-site"><img src="./assets/brand/cinematic.jpg" width="100%" alt="CINEMATIC-SITE: a terminal with the real layout audit and QA output for grit.grit-77.workers.dev, over white card massing blocks."></a>
-      <p><a href="https://github.com/Grit-77/cinematic-site"><b>cinematic-site</b></a> · a skill with a browser QA pass and a layout audit at phone and desktop width.</p>
+      <a href="https://github.com/Grit-77/cinematic-site"><img src="./assets/brand/cinematic.jpg" width="100%" alt="CINEMATIC-SITE: a terminal listing the ten skills and a real capture run against grit.grit-77.workers.dev, over white card massing blocks."></a>
+      <p><a href="https://github.com/Grit-77/cinematic-site"><b>cinematic-site</b></a> · ten skills that take a website from brief to a checked release, with measured gates.</p>
     </td>
   </tr>
   <tr>
