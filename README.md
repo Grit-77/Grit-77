@@ -31,15 +31,19 @@ Send a request, claim the work, and read the reply through ordinary HTTPS. Pytho
 
 [How it works](https://github.com/Grit-77/dotline#quickstart-three-steps) · [Trust and security](https://github.com/Grit-77/dotline#trust-and-security)
 
+### [Give It a Plot.](https://github.com/Grit-77/give-it-a-plot)
+
+**Parcel to Design · P2D**
+
+Tools for turning parcel and zoning inputs into architectural plans, sheets, renders, and editable CAD files. Architect review required.
+
 ## In development
 
-**Remember, Dammit.** — shared memory for AI coding agents, designed to carry project decisions across tools and sessions. Currently in development.
+### [Remember, Dammit.](https://github.com/Grit-77/remember-dammit)
 
-## More from Grit
+**I already told you.**
 
-- [**p2d**](https://github.com/Grit-77/p2d) — zoning data to architectural concept plans, sheets, renders, and editable CAD files. Architect review required.
-- [**cinematic-site**](https://github.com/Grit-77/cinematic-site) — a set of agent skills for taking a website from brief through design, accessibility, and release checks.
-- [**apify-actors**](https://github.com/Grit-77/apify-actors) — data tools for website capture, app reviews, domains, jobs, and market odds.
+Shared local memory for AI agents, with source-linked records and correction history. Available as a source alpha; native-client integrations are still being validated.
 
 ---
 
