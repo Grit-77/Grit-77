@@ -9,7 +9,7 @@
 
 **Founder of Grit · Ankara, Türkiye**
 
-I build practical AI tools, agent workflows, and open-source software. The thread through my work is simple: make useful things, check the result, and keep the evidence close.
+I build practical AI tools, Web3 projects, agent workflows, and open-source software. The thread through my work is simple: make useful things, check the result, and keep the evidence close.
 
 [Grit website](https://grit.grit-77.workers.dev/) · [Get in touch](https://grit.grit-77.workers.dev/contact/)
 
