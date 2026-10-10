@@ -1,9 +1,9 @@
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile/grit-cover.png">
-  <img src="assets/profile/grit-intro.gif" width="100%" alt="Grit. AI systems. Checked work. The segmented Grit disk assembles into its finished mark.">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile/grit-portrait-cover.png">
+  <img src="assets/profile/grit-portrait-loop.gif" width="100%" alt="İsmet Aydın — Grit. AI systems. Checked work. A halftone portrait beside an editorial wordmark, with a gently looping olive frame accent.">
 </picture>
 
-[Static cover](assets/profile/grit-cover.png) · [Replay animation](assets/profile/grit-intro.gif)
+[Static cover](assets/profile/grit-portrait-cover.png) · [View animation](assets/profile/grit-portrait-loop.gif)
 
 # İsmet Aydın
 
