@@ -5,13 +5,15 @@
 
 [Static cover](assets/profile/grit-portrait-cover.png) · [View animation](assets/profile/grit-portrait-loop.gif)
 
-# İsmet Aydın
+# Grit · İsmet Aydın
 
-**Founder of Grit · Ankara, Türkiye**
+**Websites, AI automations and AI consulting · Ankara, Türkiye**
 
-I build practical AI tools, Web3 projects, agent workflows, and open-source software. The thread through my work is simple: make useful things, check the result, and keep the evidence close.
+I build fast, carefully made websites, AI automations that take repetitive work off a team, and open-source tools for coding agents. The thread through my work is simple: make useful things, check the result, and keep the evidence close.
 
-[Grit website](https://grit.grit-77.workers.dev/) · [Get in touch](https://grit.grit-77.workers.dev/contact/)
+[Website](https://ismet-site-dev.grit-77.workers.dev/) · [X @okgrit](https://x.com/okgrit) · [Instagram @okgrit](https://www.instagram.com/okgrit/) · [Instagram @ismt.aydin](https://www.instagram.com/ismt.aydin/) · [Get in touch](https://ismet-site-dev.grit-77.workers.dev/#iletisim)
+
+AI news, practical tips and repos every day at **[@okgrit](https://x.com/okgrit)**.
 
 ## Selected work
 
@@ -49,4 +51,4 @@ Shared local memory for AI agents, with source-linked records and correction his
 
 **Useful tools. Inspectable work.**
 
-Have a concrete problem to build around? [Let's talk](https://grit.grit-77.workers.dev/contact/). Türkçe de yazabilirsiniz.
+Have a concrete problem to build around? [Let's talk](https://ismet-site-dev.grit-77.workers.dev/#iletisim). Türkçe de yazabilirsiniz.
