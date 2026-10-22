@@ -7,13 +7,15 @@
 
 # Grit · İsmet Aydın
 
-**Websites, AI automations and AI consulting · Ankara, Türkiye**
+**Open-source tools for coding agents · Ankara, Türkiye**
 
-I build fast, carefully made websites, AI automations that take repetitive work off a team, and open-source tools for coding agents. The thread through my work is simple: make useful things, check the result, and keep the evidence close.
+I build tools for keeping project memory, connecting agents, and checking what their work actually proves. Start with one small task and inspect the result.
 
 [Website](https://okgrit.me/) · [X @okgrit](https://x.com/okgrit) · [Instagram @okgrit](https://www.instagram.com/okgrit/) · [Instagram @ismt.aydin](https://www.instagram.com/ismt.aydin/) · [Get in touch](https://okgrit.me/#iletisim)
 
-AI news, practical tips and repos every day at **[@okgrit](https://x.com/okgrit)**.
+**Start here:** [Try done-is-a-claim on your next small task](https://github.com/Grit-77/done-is-a-claim#get-started).
+
+Follow this profile for coding-agent tools and concrete usage notes. You can also find me at [@okgrit](https://x.com/okgrit).
 
 ## Selected work
 
@@ -23,7 +25,15 @@ AI news, practical tips and repos every day at **[@okgrit](https://x.com/okgrit)
 
 Incident-backed rules and focused skills for coding agents, with local tools for capturing and rechecking evidence. Start with a Markdown rules file; add the workflows you need.
 
-[Read the rules](https://github.com/Grit-77/done-is-a-claim/blob/main/AGENTS.md) · [Try the demo](https://github.com/Grit-77/done-is-a-claim#watch-a-false-green)
+[Use it on one task](https://github.com/Grit-77/done-is-a-claim#get-started) · [Read the rules](https://github.com/Grit-77/done-is-a-claim/blob/main/AGENTS.md) · [Try the demo](https://github.com/Grit-77/done-is-a-claim#watch-a-false-green)
+
+### [Remember, Dammit.](https://github.com/Grit-77/remember-dammit)
+
+**I already told you.**
+
+Shared local memory for AI agents, with source-linked records and correction history. Available as a source alpha; native-client integrations are still being validated.
+
+[Try a first save and recall](https://github.com/Grit-77/remember-dammit#get-started) · [Client evidence and limits](https://github.com/Grit-77/remember-dammit/blob/main/docs/LIVE-ACCEPTANCE.md)
 
 ### [dotline](https://github.com/Grit-77/dotline)
 
@@ -39,16 +49,8 @@ Send a request, claim the work, and read the reply through ordinary HTTPS. Pytho
 
 Tools for turning parcel and zoning inputs into architectural plans, sheets, renders, and editable CAD files. Architect review required.
 
-## In development
-
-### [Remember, Dammit.](https://github.com/Grit-77/remember-dammit)
-
-**I already told you.**
-
-Shared local memory for AI agents, with source-linked records and correction history. Available as a source alpha; native-client integrations are still being validated.
-
 ---
 
 **Useful tools. Inspectable work.**
 
-Have a concrete problem to build around? [Let's talk](https://okgrit.me/#iletisim). Türkçe de yazabilirsiniz.
+I also build websites and AI automations. Have a concrete problem to build around? [Let's talk](https://okgrit.me/#iletisim). Türkçe de yazabilirsiniz.
