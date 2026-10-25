@@ -62,3 +62,9 @@ Tools for turning parcel and zoning inputs into architectural plans, sheets, ren
 **Useful tools. Inspectable work.**
 
 I also build websites and AI automations. Have a concrete problem to build around? [Let's talk](https://okgrit.me/#iletisim). Türkçe de yazabilirsiniz.
+
+## Latest field note
+
+[Case note 1: parsing a report must not erase its exit code](https://github.com/Grit-77/done-is-a-claim/discussions/21)
+
+A synthetic Bash reproduction: a report can fail while its JSON formatter succeeds. See the observed results and the pipeline fix.
